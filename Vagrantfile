@@ -20,7 +20,7 @@ host_list = [
         :mem => "1024",
         :cpu => "1",
 	    	:box => "generic/ubuntu1804",
-        :box_url => "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/bionic/current/bionic-server-cloudimg-amd64-vagrant.box"
+        :box_url => "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/bionic/current/bionic-server-cloudimg-amd64-vagrant.box",
         :script => "./ubuntu_post.sh"
     },
     {

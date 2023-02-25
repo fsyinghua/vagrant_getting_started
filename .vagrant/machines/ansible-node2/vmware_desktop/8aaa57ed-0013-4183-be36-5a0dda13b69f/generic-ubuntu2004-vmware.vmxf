@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Foundry>
-<VM>
-<ClientMetaData>
-<clientMetaDataAttributes/>
-<HistoryEventList/></ClientMetaData>
-<VMId type="string">52 6a 64 9a 95 e6 d8 52-96 09 f7 7a e4 d7 19 f1</VMId>
-<vmxPathName type="string">generic-ubuntu2004-vmware.vmx</vmxPathName></VM></Foundry>

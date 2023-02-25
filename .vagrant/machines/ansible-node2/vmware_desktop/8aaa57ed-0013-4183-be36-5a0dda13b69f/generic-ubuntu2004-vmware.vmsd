@@ -1,5 +1,0 @@
-.encoding = "GBK"
-cloneOf0 = "C:\Users\Joe He\.vagrant.d\boxes\generic-VAGRANTSLASH-ubuntu2004\0\vmware_desktop\generic-ubuntu2004-vmware.vmx"
-numCloneOf = "1"
-sentinel0 = "generic-ubuntu2004-vmware-cl1.vmdk"
-numSentinels = "1"
