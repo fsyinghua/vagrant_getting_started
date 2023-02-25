@@ -1,0 +1,5 @@
+.encoding = "GBK"
+cloneOf0 = "C:\Users\Joe He\.vagrant.d\boxes\generic-VAGRANTSLASH-centos7\0\vmware_desktop\centos-7-1-1.x86_64.vmx"
+numCloneOf = "1"
+sentinel0 = "centos-7-1-1.x86_64-disk1-cl1.vmdk"
+numSentinels = "1"

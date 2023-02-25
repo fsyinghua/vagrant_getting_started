@@ -1,0 +1,3 @@
+vagrant box add gernic/ubuntu1804 D:\ISO\vagrant\ubuntu1804.box
+vagrant box add gernic/ubuntu2004 D:\ISO\vagrant\ubuntu2004.box
+vagrant box add gernic/centos7 D:\ISO\vagrant\centos7.box
